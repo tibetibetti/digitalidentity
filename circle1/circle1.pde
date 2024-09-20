@@ -1,4 +1,4 @@
-int nc = 40; // number of circles
+int nc = 30; // number of circles
 float[] cx = new float[nc]; // tömbök, fiókos szekrény
 float[] vx = new float[nc];
 float[] cy = new float[nc];
